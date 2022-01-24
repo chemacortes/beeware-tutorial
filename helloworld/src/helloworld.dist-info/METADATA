@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.5
+Name: helloworld
+Formal-Name: Hello World
+App-ID: org.ch3m4.helloworld
+Version: 0.0.1
+Home-page: https://ch3m4.org/helloworld
+Author: Chema Cortés
+Author-email: chema@ch3m4.org
+Summary: My first application
